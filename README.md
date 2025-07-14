@@ -1,21 +1,59 @@
-# Sklep Odzieżowy – React + Vite + TypeScript
+# 🛍️ Sklep Odzieżowy – React + Vite + TypeScript
 
-Projekt sklepu internetowego stworzony z wykorzystaniem **React**, **Vite** i **TypeScript**. Aplikacja zawiera podstawowe funkcje sklepu, takie jak przeglądanie produktów, dodawanie do koszyka oraz dynamiczne renderowanie treści.
+Frontendowa aplikacja sklepu internetowego stworzona z wykorzystaniem **React**, **Vite** i **TypeScript**. Pozwala użytkownikowi przeglądać produkty, dodawać je do koszyka oraz korzystać z prostego, nowoczesnego interfejsu.
 
-## 🔧 Technologie:
+---
 
-- React
+## 🌐 Demo online:
+
+👉 [Zobacz działający sklep](https://c78f7b85.website--kk.pages.dev/)
+
+---
+
+## ✨ Główne funkcje:
+
+- Przeglądanie produktów
+- Dodawanie i usuwanie produktów z koszyka
+- Responsywny layout (działa również na urządzeniach mobilnych)
+- Routing między stronami (React Router)
+- Przejrzysty interfejs użytkownika
+- Komponentowa architektura
+
+---
+
+## ⚙️ Stack technologiczny:
+
+- React 18
 - Vite
 - TypeScript
 - HTML / CSS
-- JSX
-- Node.js / NPM
+- NPM
 
-## 📦 Jak uruchomić lokalnie:
+---
+
+## ▶️ Jak uruchomić projekt lokalnie:
+
+1. Sklonuj repozytorium:
 
 ```bash
 git clone https://github.com/Example7/SklepOdziezowy.git
 cd SklepOdziezowy
+```
+
+2. Zainstaluj zależności:
+```bash
 npm install
+```
+
+3. Uruchom aplikację:
+```bash
 npm run dev
 ```
+
+4. Otwórz w przeglądarce:
+```bash
+http://localhost:5173/
+```
+
+## 👨‍💻 Autor:
+Kacper Kałużny (Example7)
