@@ -55,5 +55,7 @@ npm run dev
 http://localhost:5173/
 ```
 
+---
+
 ## 👨‍💻 Autor:
-Kacper Kałużny (Example7)
+**Kacper Kałużny** ([Example7](https://github.com/Example7))  
